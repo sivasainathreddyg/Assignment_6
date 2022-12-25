@@ -1,0 +1,8 @@
+[
+    {"Name": "sai", "DOB": "09-01-2000", "Height": "5'7\"", "City": "kadapa", "State": "Ap"},
+    {"Name": "nath", "DOB": "01-02-2001", "Height": "5'8\"", "City": "Banglore", "State": "karnataka"},
+    {"Name": "mohan", "DOB": "08-08-1998", "Height": "6.0\"", "City": "Hyderabad", "State": "Telangana State"}, 
+    {"Name": "vishnu", "DOB": "09-90-1999", "Height": "5.5\"", "City": "chennai", "State": "tamilnadu"},
+    {"Name": "Reddy", "DOB": "12-12-1997", "Height": "6'1\"", "City": "vizag", "State": "Ap"}
+
+]
